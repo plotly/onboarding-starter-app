@@ -8,10 +8,10 @@ To use the this repo, just follow these steps:
 1. Clone the repo to your local machine
     * For example, open your terminal and use these commands:
         * `cd Desktop`
-        * `git clone `
+        * `git clone https://github.com/plotly/onboarding-starter-app.git`
 2. This will bring all of the files to your local machine
 3. Navigate to the new directory 
-    * `cd `
+    * `cd onboarding-starter-app`
 4. Run the following command to check out the Jupyter Notebook
     * `jupyter notebook`
 5. To see the dash app, run this command:
