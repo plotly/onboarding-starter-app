@@ -57,6 +57,3 @@ Also, this repo has everything you need to explore deploying this application to
     * `git commit -m "first deploy!"`
     * `git push plotly workspace:main`
 
-## We're Here for You
-
-If you have any questions at all, please don't hesitate to contact us at onpremise.support@plot.ly!
