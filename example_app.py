@@ -71,7 +71,7 @@ app.layout = html.Div(
 @app.callback(
     Output(component_id="life-ex-graph", component_property="figure"),
     Input(component_id="continent-select", component_property="value"),
-    prevent_inital_call=True,
+    # prevent_inital_call=True,
 )
 def update_graph(continent):
     values = gap_data.continent.isin(continent)
