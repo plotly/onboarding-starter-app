@@ -2,6 +2,13 @@
 
 This repo includes a Jupyter Notebook called `explore_plotly_vis.ipynb` that demonstrates some ways to use Plotly visualizations and an `example_app.py` file to explore Dash Apps!
 
+<div align="center">
+  <a href="https://dash.plotly.com/project-maintenance">
+    <img src="https://dash.plotly.com/assets/images/maintained-by-plotly.png" width="400px" alt="Maintained by Plotly">
+  </a>
+</div>
+
+
 ## Using this Repo
 
 To use the this repo, just follow these steps:
